@@ -13,3 +13,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://share-cdn.picrew.me/shareImg/org/202109/364280_kvHJYCki.png">
 </div>
+<div>
+
+  ![Snake animation](https://github.com/Sasukezin678/Sasukezin678/blob/output/github-contribution-grid-snake.svg)
+</div>
