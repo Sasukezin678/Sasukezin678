@@ -14,6 +14,7 @@
   <img align="right" alt="Rafa-yoda" src="https://share-cdn.picrew.me/shareImg/org/202109/364280_kvHJYCki.png">
 </div>
 <div>
+<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/Sasukezin678/Sasukezin678/blob/output/github-contribution-grid-snake.svg)
 </div>
