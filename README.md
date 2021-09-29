@@ -13,10 +13,6 @@
   <img align="right" alt="-y" width="100" src="https://share-cdn.picrew.me/shareImg/org/202109/364280_kvHJYCki.png">
 </div>
 <div>
-
-
-
-<a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-
+<iframe src="https://discord.com/widget?id=874388860346458112&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   ![Snake animation](https://github.com/Sasukezin678/Sasukezin678/blob/output/github-contribution-grid-snake.svg)
 </div>
